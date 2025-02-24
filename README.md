@@ -5,14 +5,20 @@ Extract: Stock data from a free API (Yahoo Finance, Alpha Vantage, IEX Cloud) Tr
 
 
 + Step 1: Install Python and Required Packages
+  
 ✅ Check Python Version
+
+
 Ensure you have Python 3.8 or later installed:
 *****python --version*****
 
 If it is not installed, please download it from official site.
 
 + Step 2: Install Dependencies
+  
 ✅ Install all required Python libraries
+
+
 *****pip install yfinance pandas pymongo psycopg2 kafka-python*****
 What These Libraries Do?
 
