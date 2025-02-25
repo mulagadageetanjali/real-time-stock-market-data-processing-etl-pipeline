@@ -28,3 +28,6 @@ pandas → Data transformation
 pymongo → Connects to MongoDB
 psycopg2 → Connects to PostgreSQL
 kafka-python → Enables streaming 
+
+
+![image](https://github.com/user-attachments/assets/763a69df-1ca4-4434-b66f-a05f8c87348b)
