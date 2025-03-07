@@ -83,6 +83,8 @@ We can query the Data in SQL Server Express, we can detect the Bullish and beari
 
 
 
-*Credits*
+**Credits**
+
+
 Webiste for API Creation and Extracting the data : https://twelvedata.com/account/api-playground
 For detecting the trends in stock prices :https://levelup.gitconnected.com/build-a-simple-stock-price-indicator-with-sql-7ddf169d8b33
